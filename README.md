@@ -31,6 +31,66 @@ This repository has the files to create a holiday menu from an existing database
 - shopping list is automatically generated from ingredients in the recipes that have been added to the menu
 - export the menu and shopping list to disk (as a simple text file)
 
+### A Sample Menu & Shopping List Output
+```
+2023 HOLIDAY MENU
+=================
+
+Lunch:
+------
+•Braised Spanish Lentils (source: How to Cook Everything Vegetarian)
+	INGREDIENTS: Bay Leaf, Black Pepper, Brown Lentils, Carrot, Celery, Dry Red
+	Wine, Extra Virgin Olive Oil, Garlic, Pimenton, Saffron, Salt, Vegetable
+	Stock, Yellow Onion
+•Fajitas (source: Dude Diet)
+	INGREDIENTS: Chicken, Enchillada Sauce, Green Pepper, Red Pepper, Shredded
+	Cheese, Yellow Onion
+
+Dinner:
+-------
+•Chicken Stew (source: Dude Diet)
+	INGREDIENTS: Chicken, Chicken broth, Red Pepper, Stale bread crumbs, Yellow
+	Onion
+•Stuffing (source: Domesticate Me)
+	INGREDIENTS: Chicken broth, Golden Delicious Apple, Sausage, Stale bread
+	crumbs, Tyme, Yellow Onion
+
+Brunch:
+-------
+•Stir Fry (source: Dude Diet Dinner)
+	INGREDIENTS: Butter, Chicken, Garlic, Green Pepper, Red Pepper, Soy Sauce,
+	Yellow Onion
+
+
+SHOPPING LIST:
+==============
+•Bay Leaf
+•Black Pepper
+•Brown Lentils
+•Butter
+•Carrot
+•Celery
+•Chicken
+•Chicken broth
+•Dry Red Wine
+•Enchillada Sauce
+•Extra Virgin Olive Oil
+•Garlic
+•Golden Delicious Apple
+•Green Pepper
+•Pimenton
+•Red Pepper
+•Saffron
+•Salt
+•Sausage
+•Shredded Cheese
+•Soy Sauce
+•Stale bread crumbs
+•Tyme
+•Vegetable Stock
+•Yellow Onion
+```
+
 ## License
 MIT License
 
